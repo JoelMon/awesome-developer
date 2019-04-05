@@ -1,2 +1,2 @@
 # awesome-developer
-Documentation that I fine useful while developing.
+Documentation that I find useful while developing.
