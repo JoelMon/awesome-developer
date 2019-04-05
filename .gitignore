@@ -102,3 +102,8 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# sphinx
+docs/_build
+docs/_static
+docs/_templates
